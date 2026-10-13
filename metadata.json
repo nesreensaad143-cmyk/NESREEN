@@ -1,0 +1,6 @@
+{
+  "name": "Study Mate – منظّم المذاكرة والامتحانات",
+  "description": "تطبيق متكامل لتنظيم المذاكرة وجداول الامتحانات، خطط المراجعة، المهام اليومية، المنبه والآلة الحاسبة للطلاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
